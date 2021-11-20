@@ -1,0 +1,770 @@
+[
+  {
+    "model": "core.Game",
+    "pk": 1,
+    "fields": {
+      "home_team": 1,
+      "away_team": 2
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 2,
+    "fields": {
+      "home_team": 3,
+      "away_team": 4
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 3,
+    "fields": {
+      "home_team": 5,
+      "away_team": 6
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 4,
+    "fields": {
+      "home_team": 7,
+      "away_team": 8
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 5,
+    "fields": {
+      "home_team": 9,
+      "away_team": 10
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 6,
+    "fields": {
+      "home_team": 11,
+      "away_team": 12
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 7,
+    "fields": {
+      "home_team": 13,
+      "away_team": 14
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 8,
+    "fields": {
+      "home_team": 15,
+      "away_team": 16
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 9,
+    "fields": {
+      "home_team": 1,
+      "away_team": 3
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 10,
+    "fields": {
+      "home_team": 2,
+      "away_team": 4
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 11,
+    "fields": {
+      "home_team": 7,
+      "away_team": 9
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 12,
+    "fields": {
+      "home_team": 8,
+      "away_team": 10
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 13,
+    "fields": {
+      "home_team": 11,
+      "away_team": 13
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 14,
+    "fields": {
+      "home_team": 12,
+      "away_team": 14
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 15,
+    "fields": {
+      "home_team": 5,
+      "away_team": 15
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 16,
+    "fields": {
+      "home_team": 6,
+      "away_team": 16
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 17,
+    "fields": {
+      "home_team": 17,
+      "away_team": 18
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 18,
+    "fields": {
+      "home_team": 19,
+      "away_team": 20
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 19,
+    "fields": {
+      "home_team": 21,
+      "away_team": 22
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 20,
+    "fields": {
+      "home_team": 23,
+      "away_team": 24
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 21,
+    "fields": {
+      "home_team": 25,
+      "away_team": 26
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 22,
+    "fields": {
+      "home_team": 27,
+      "away_team": 28
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 23,
+    "fields": {
+      "home_team": 29,
+      "away_team": 30
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 24,
+    "fields": {
+      "home_team": 31,
+      "away_team": 32
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 25,
+    "fields": {
+      "home_team": 17,
+      "away_team": 22
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 26,
+    "fields": {
+      "home_team": 24,
+      "away_team": 28
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 27,
+    "fields": {
+      "home_team": 21,
+      "away_team": 23
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 28,
+    "fields": {
+      "home_team": 27,
+      "away_team": 31
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 29,
+    "fields": {
+      "home_team": 26,
+      "away_team": 32
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 30,
+    "fields": {
+      "home_team": 18,
+      "away_team": 25
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 31,
+    "fields": {
+      "home_team": 19,
+      "away_team": 29
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 32,
+    "fields": {
+      "home_team": 20,
+      "away_team": 30
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 33,
+    "fields": {
+      "home_team": 33,
+      "away_team": 34
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 34,
+    "fields": {
+      "home_team": 35,
+      "away_team": 36
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 35,
+    "fields": {
+      "home_team": 37,
+      "away_team": 38
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 36,
+    "fields": {
+      "home_team": 39,
+      "away_team": 40
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 37,
+    "fields": {
+      "home_team": 41,
+      "away_team": 42
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 38,
+    "fields": {
+      "home_team": 43,
+      "away_team": 44
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 39,
+    "fields": {
+      "home_team": 45,
+      "away_team": 46
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 40,
+    "fields": {
+      "home_team": 47,
+      "away_team": 48
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 41,
+    "fields": {
+      "home_team": 37,
+      "away_team": 40
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 42,
+    "fields": {
+      "home_team": 34,
+      "away_team": 41
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 43,
+    "fields": {
+      "home_team": 38,
+      "away_team": 45
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 44,
+    "fields": {
+      "home_team": 39,
+      "away_team": 46
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 45,
+    "fields": {
+      "home_team": 33,
+      "away_team": 48
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 46,
+    "fields": {
+      "home_team": 42,
+      "away_team": 47
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 47,
+    "fields": {
+      "home_team": 35,
+      "away_team": 43
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 48,
+    "fields": {
+      "home_team": 36,
+      "away_team": 44
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 49,
+    "fields": {
+      "home_team": 49,
+      "away_team": 50
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 50,
+    "fields": {
+      "home_team": 51,
+      "away_team": 52
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 51,
+    "fields": {
+      "home_team": 53,
+      "away_team": 54
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 52,
+    "fields": {
+      "home_team": 55,
+      "away_team": 56
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 53,
+    "fields": {
+      "home_team": 57,
+      "away_team": 44
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 54,
+    "fields": {
+      "home_team": 58,
+      "away_team": 59
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 55,
+    "fields": {
+      "home_team": 60,
+      "away_team": 61
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 56,
+    "fields": {
+      "home_team": 62,
+      "away_team": 63
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 57,
+    "fields": {
+      "home_team": 52,
+      "away_team": 44
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 58,
+    "fields": {
+      "home_team": 54,
+      "away_team": 59
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 59,
+    "fields": {
+      "home_team": 51,
+      "away_team": 53
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 60,
+    "fields": {
+      "home_team": 50,
+      "away_team": 55
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 61,
+    "fields": {
+      "home_team": 57,
+      "away_team": 58
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 62,
+    "fields": {
+      "home_team": 49,
+      "away_team": 56
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 63,
+    "fields": {
+      "home_team": 61,
+      "away_team": 63
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 64,
+    "fields": {
+      "home_team": 60,
+      "away_team": 62
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 65,
+    "fields": {
+      "home_team": 64,
+      "away_team": 65
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 66,
+    "fields": {
+      "home_team": 66,
+      "away_team": 67
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 67,
+    "fields": {
+      "home_team": 68,
+      "away_team": 69
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 68,
+    "fields": {
+      "home_team": 70,
+      "away_team": 71
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 69,
+    "fields": {
+      "home_team": 72,
+      "away_team": 73
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 70,
+    "fields": {
+      "home_team": 74,
+      "away_team": 75
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 71,
+    "fields": {
+      "home_team": 76,
+      "away_team": 45
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 72,
+    "fields": {
+      "home_team": 77,
+      "away_team": 78
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 73,
+    "fields": {
+      "home_team": 64,
+      "away_team": 69
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 74,
+    "fields": {
+      "home_team": 65,
+      "away_team": 68
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 75,
+    "fields": {
+      "home_team": 72,
+      "away_team": 74
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 76,
+    "fields": {
+      "home_team": 73,
+      "away_team": 75
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 77,
+    "fields": {
+      "home_team": 67,
+      "away_team": 77
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 78,
+    "fields": {
+      "home_team": 70,
+      "away_team": 78
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 79,
+    "fields": {
+      "home_team": 71,
+      "away_team": 45
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 80,
+    "fields": {
+      "home_team": 66,
+      "away_team": 76
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 81,
+    "fields": {
+      "home_team": 79,
+      "away_team": 80
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 82,
+    "fields": {
+      "home_team": 81,
+      "away_team": 82
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 83,
+    "fields": {
+      "home_team": 83,
+      "away_team": 84
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 84,
+    "fields": {
+      "home_team": 85,
+      "away_team": 86
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 85,
+    "fields": {
+      "home_team": 87,
+      "away_team": 88
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 86,
+    "fields": {
+      "home_team": 89,
+      "away_team": 90
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 87,
+    "fields": {
+      "home_team": 91,
+      "away_team": 92
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 88,
+    "fields": {
+      "home_team": 93,
+      "away_team": 94
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 89,
+    "fields": {
+      "home_team": 80,
+      "away_team": 82
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 90,
+    "fields": {
+      "home_team": 79,
+      "away_team": 81
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 91,
+    "fields": {
+      "home_team": 85,
+      "away_team": 87
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 92,
+    "fields": {
+      "home_team": 86,
+      "away_team": 88
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 93,
+    "fields": {
+      "home_team": 90,
+      "away_team": 91
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 94,
+    "fields": {
+      "home_team": 83,
+      "away_team": 89
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 95,
+    "fields": {
+      "home_team": 92,
+      "away_team": 93
+    }
+  },
+  {
+    "model": "core.Game",
+    "pk": 96,
+    "fields": {
+      "home_team": 84,
+      "away_team": 94
+    }
+  }
+]

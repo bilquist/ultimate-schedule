@@ -1,0 +1,962 @@
+[
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 1
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 2
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 3
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 4
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 5
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 6
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 7
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 8
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 9
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 10
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 11
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 12
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 13
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 14
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 15
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 1,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 16
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 17
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 18
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 19
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 20
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 21
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 22
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 23
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 24
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 25
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 26
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 27
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 28
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 29
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 30
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 31
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 2,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 32
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 33
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 34
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 35
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 36
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 37
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 38
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 39
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 40
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 41
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 42
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 43
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 44
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 45
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 46
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 47
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 3,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 48
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 49
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 50
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 51
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 52
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 53
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 54
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 55
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 56
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 57
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 58
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 59
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 60
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 61
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 62
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 63
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 4,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 64
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 65
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 66
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 67
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 68
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 69
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 70
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 71
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 72
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 73
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 74
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 75
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 76
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 77
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 78
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 79
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 5,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 80
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 81
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 82
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 83
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 84
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 85
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 86
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 87
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 1,
+      "game": 88
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 89
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 90
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 91
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 92
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 93
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 94
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 95
+    }
+  },
+  {
+    "model": "core.Schedule",
+    "pk": 1,
+    "fields": {
+      "week": 6,
+      "game_of_week": 1,
+      "game_of_day": 2,
+      "game": 96
+    }
+  }
+]

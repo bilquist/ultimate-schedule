@@ -1,0 +1,1538 @@
+[
+  {
+    "model": "core.Team",
+    "pk": 1,
+    "fields": {
+      "score": 12,
+      "string_agg": "[1, 2, 9]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 2,
+    "fields": {
+      "score": 12,
+      "string_agg": "[3, 4, 5]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 3,
+    "fields": {
+      "score": 29,
+      "string_agg": "[6, 7, 16]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 4,
+    "fields": {
+      "score": 29,
+      "string_agg": "[8, 10, 11]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 5,
+    "fields": {
+      "score": 46,
+      "string_agg": "[12, 13, 21]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 6,
+    "fields": {
+      "score": 46,
+      "string_agg": "[14, 15, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 7,
+    "fields": {
+      "score": 65,
+      "string_agg": "[18, 19, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 8,
+    "fields": {
+      "score": 65,
+      "string_agg": "[20, 22, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 9,
+    "fields": {
+      "score": 82,
+      "string_agg": "[24, 25, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 10,
+    "fields": {
+      "score": 82,
+      "string_agg": "[26, 27, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 11,
+    "fields": {
+      "score": 101,
+      "string_agg": "[30, 31, 40]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 12,
+    "fields": {
+      "score": 101,
+      "string_agg": "[32, 34, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 13,
+    "fields": {
+      "score": 118,
+      "string_agg": "[36, 37, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 14,
+    "fields": {
+      "score": 118,
+      "string_agg": "[38, 39, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 15,
+    "fields": {
+      "score": 135,
+      "string_agg": "[42, 46, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 16,
+    "fields": {
+      "score": 135,
+      "string_agg": "[43, 44, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 1,
+    "fields": {
+      "score": 12,
+      "string_agg": "[1, 2, 9]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 3,
+    "fields": {
+      "score": 29,
+      "string_agg": "[6, 7, 16]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 2,
+    "fields": {
+      "score": 12,
+      "string_agg": "[3, 4, 5]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 4,
+    "fields": {
+      "score": 29,
+      "string_agg": "[8, 10, 11]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 7,
+    "fields": {
+      "score": 65,
+      "string_agg": "[18, 19, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 9,
+    "fields": {
+      "score": 82,
+      "string_agg": "[24, 25, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 8,
+    "fields": {
+      "score": 65,
+      "string_agg": "[20, 22, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 10,
+    "fields": {
+      "score": 82,
+      "string_agg": "[26, 27, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 11,
+    "fields": {
+      "score": 101,
+      "string_agg": "[30, 31, 40]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 13,
+    "fields": {
+      "score": 118,
+      "string_agg": "[36, 37, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 12,
+    "fields": {
+      "score": 101,
+      "string_agg": "[32, 34, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 14,
+    "fields": {
+      "score": 118,
+      "string_agg": "[38, 39, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 5,
+    "fields": {
+      "score": 46,
+      "string_agg": "[12, 13, 21]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 15,
+    "fields": {
+      "score": 135,
+      "string_agg": "[42, 46, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 6,
+    "fields": {
+      "score": 46,
+      "string_agg": "[14, 15, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 16,
+    "fields": {
+      "score": 135,
+      "string_agg": "[43, 44, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 17,
+    "fields": {
+      "score": 27,
+      "string_agg": "[1, 2, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 18,
+    "fields": {
+      "score": 27,
+      "string_agg": "[8, 9, 10]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 19,
+    "fields": {
+      "score": 23,
+      "string_agg": "[3, 4, 16]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 20,
+    "fields": {
+      "score": 23,
+      "string_agg": "[5, 6, 12]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 21,
+    "fields": {
+      "score": 44,
+      "string_agg": "[7, 11, 26]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 22,
+    "fields": {
+      "score": 44,
+      "string_agg": "[13, 14, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 23,
+    "fields": {
+      "score": 74,
+      "string_agg": "[15, 18, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 24,
+    "fields": {
+      "score": 74,
+      "string_agg": "[19, 27, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 25,
+    "fields": {
+      "score": 77,
+      "string_agg": "[20, 21, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 26,
+    "fields": {
+      "score": 77,
+      "string_agg": "[22, 23, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 27,
+    "fields": {
+      "score": 96,
+      "string_agg": "[25, 29, 42]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 28,
+    "fields": {
+      "score": 96,
+      "string_agg": "[30, 31, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 29,
+    "fields": {
+      "score": 121,
+      "string_agg": "[33, 40, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 30,
+    "fields": {
+      "score": 121,
+      "string_agg": "[38, 39, 44]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 31,
+    "fields": {
+      "score": 126,
+      "string_agg": "[34, 45, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 32,
+    "fields": {
+      "score": 126,
+      "string_agg": "[37, 43, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 17,
+    "fields": {
+      "score": 27,
+      "string_agg": "[1, 2, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 22,
+    "fields": {
+      "score": 44,
+      "string_agg": "[13, 14, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 24,
+    "fields": {
+      "score": 74,
+      "string_agg": "[19, 27, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 28,
+    "fields": {
+      "score": 96,
+      "string_agg": "[30, 31, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 21,
+    "fields": {
+      "score": 44,
+      "string_agg": "[7, 11, 26]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 23,
+    "fields": {
+      "score": 74,
+      "string_agg": "[15, 18, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 27,
+    "fields": {
+      "score": 96,
+      "string_agg": "[25, 29, 42]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 31,
+    "fields": {
+      "score": 126,
+      "string_agg": "[34, 45, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 26,
+    "fields": {
+      "score": 77,
+      "string_agg": "[22, 23, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 32,
+    "fields": {
+      "score": 126,
+      "string_agg": "[37, 43, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 18,
+    "fields": {
+      "score": 27,
+      "string_agg": "[8, 9, 10]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 25,
+    "fields": {
+      "score": 77,
+      "string_agg": "[20, 21, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 19,
+    "fields": {
+      "score": 23,
+      "string_agg": "[3, 4, 16]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 29,
+    "fields": {
+      "score": 121,
+      "string_agg": "[33, 40, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 20,
+    "fields": {
+      "score": 23,
+      "string_agg": "[5, 6, 12]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 30,
+    "fields": {
+      "score": 121,
+      "string_agg": "[38, 39, 44]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 33,
+    "fields": {
+      "score": 38,
+      "string_agg": "[1, 2, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 34,
+    "fields": {
+      "score": 38,
+      "string_agg": "[11, 12, 15]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 35,
+    "fields": {
+      "score": 34,
+      "string_agg": "[3, 4, 27]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 36,
+    "fields": {
+      "score": 34,
+      "string_agg": "[7, 13, 14]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 37,
+    "fields": {
+      "score": 55,
+      "string_agg": "[5, 16, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 38,
+    "fields": {
+      "score": 55,
+      "string_agg": "[17, 18, 20]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 39,
+    "fields": {
+      "score": 68,
+      "string_agg": "[6, 26, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 40,
+    "fields": {
+      "score": 68,
+      "string_agg": "[19, 21, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 41,
+    "fields": {
+      "score": 63,
+      "string_agg": "[8, 22, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 42,
+    "fields": {
+      "score": 63,
+      "string_agg": "[9, 23, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 43,
+    "fields": {
+      "score": 101,
+      "string_agg": "[24, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 44,
+    "fields": {
+      "score": 101,
+      "string_agg": "[25, 30, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 45,
+    "fields": {
+      "score": 118,
+      "string_agg": "[37, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 46,
+    "fields": {
+      "score": 133,
+      "string_agg": "[42, 43, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 47,
+    "fields": {
+      "score": 71,
+      "string_agg": "[10, 29, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 48,
+    "fields": {
+      "score": 136,
+      "string_agg": "[44, 45, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 37,
+    "fields": {
+      "score": 55,
+      "string_agg": "[5, 16, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 40,
+    "fields": {
+      "score": 68,
+      "string_agg": "[19, 21, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 34,
+    "fields": {
+      "score": 38,
+      "string_agg": "[11, 12, 15]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 41,
+    "fields": {
+      "score": 63,
+      "string_agg": "[8, 22, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 38,
+    "fields": {
+      "score": 55,
+      "string_agg": "[17, 18, 20]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 45,
+    "fields": {
+      "score": 118,
+      "string_agg": "[37, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 39,
+    "fields": {
+      "score": 68,
+      "string_agg": "[6, 26, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 46,
+    "fields": {
+      "score": 133,
+      "string_agg": "[42, 43, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 33,
+    "fields": {
+      "score": 38,
+      "string_agg": "[1, 2, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 48,
+    "fields": {
+      "score": 136,
+      "string_agg": "[44, 45, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 42,
+    "fields": {
+      "score": 63,
+      "string_agg": "[9, 23, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 47,
+    "fields": {
+      "score": 71,
+      "string_agg": "[10, 29, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 35,
+    "fields": {
+      "score": 34,
+      "string_agg": "[3, 4, 27]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 43,
+    "fields": {
+      "score": 101,
+      "string_agg": "[24, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 36,
+    "fields": {
+      "score": 34,
+      "string_agg": "[7, 13, 14]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 44,
+    "fields": {
+      "score": 101,
+      "string_agg": "[25, 30, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 49,
+    "fields": {
+      "score": 55,
+      "string_agg": "[1, 19, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 50,
+    "fields": {
+      "score": 55,
+      "string_agg": "[2, 21, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 51,
+    "fields": {
+      "score": 48,
+      "string_agg": "[3, 14, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 52,
+    "fields": {
+      "score": 48,
+      "string_agg": "[15, 16, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 53,
+    "fields": {
+      "score": 44,
+      "string_agg": "[5, 6, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 54,
+    "fields": {
+      "score": 44,
+      "string_agg": "[7, 13, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 55,
+    "fields": {
+      "score": 64,
+      "string_agg": "[8, 27, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 56,
+    "fields": {
+      "score": 64,
+      "string_agg": "[10, 26, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 57,
+    "fields": {
+      "score": 101,
+      "string_agg": "[20, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 44,
+    "fields": {
+      "score": 101,
+      "string_agg": "[25, 30, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 58,
+    "fields": {
+      "score": 113,
+      "string_agg": "[22, 44, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 59,
+    "fields": {
+      "score": 111,
+      "string_agg": "[34, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 60,
+    "fields": {
+      "score": 39,
+      "string_agg": "[4, 12, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 61,
+    "fields": {
+      "score": 38,
+      "string_agg": "[9, 11, 18]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 62,
+    "fields": {
+      "score": 126,
+      "string_agg": "[36, 42, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 63,
+    "fields": {
+      "score": 125,
+      "string_agg": "[37, 43, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 52,
+    "fields": {
+      "score": 48,
+      "string_agg": "[15, 16, 17]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 44,
+    "fields": {
+      "score": 101,
+      "string_agg": "[25, 30, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 54,
+    "fields": {
+      "score": 44,
+      "string_agg": "[7, 13, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 59,
+    "fields": {
+      "score": 111,
+      "string_agg": "[34, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 51,
+    "fields": {
+      "score": 48,
+      "string_agg": "[3, 14, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 53,
+    "fields": {
+      "score": 44,
+      "string_agg": "[5, 6, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 50,
+    "fields": {
+      "score": 55,
+      "string_agg": "[2, 21, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 55,
+    "fields": {
+      "score": 64,
+      "string_agg": "[8, 27, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 57,
+    "fields": {
+      "score": 101,
+      "string_agg": "[20, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 58,
+    "fields": {
+      "score": 113,
+      "string_agg": "[22, 44, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 49,
+    "fields": {
+      "score": 55,
+      "string_agg": "[1, 19, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 56,
+    "fields": {
+      "score": 64,
+      "string_agg": "[10, 26, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 61,
+    "fields": {
+      "score": 38,
+      "string_agg": "[9, 11, 18]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 63,
+    "fields": {
+      "score": 125,
+      "string_agg": "[37, 43, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 60,
+    "fields": {
+      "score": 39,
+      "string_agg": "[4, 12, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 62,
+    "fields": {
+      "score": 126,
+      "string_agg": "[36, 42, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 64,
+    "fields": {
+      "score": 67,
+      "string_agg": "[1, 31, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 65,
+    "fields": {
+      "score": 67,
+      "string_agg": "[20, 23, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 66,
+    "fields": {
+      "score": 49,
+      "string_agg": "[3, 17, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 67,
+    "fields": {
+      "score": 49,
+      "string_agg": "[4, 18, 27]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 68,
+    "fields": {
+      "score": 67,
+      "string_agg": "[5, 30, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 69,
+    "fields": {
+      "score": 67,
+      "string_agg": "[12, 22, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 70,
+    "fields": {
+      "score": 38,
+      "string_agg": "[9, 10, 19]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 71,
+    "fields": {
+      "score": 38,
+      "string_agg": "[11, 13, 14]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 72,
+    "fields": {
+      "score": 107,
+      "string_agg": "[16, 44, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 73,
+    "fields": {
+      "score": 107,
+      "string_agg": "[26, 36, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 74,
+    "fields": {
+      "score": 106,
+      "string_agg": "[21, 42, 43]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 75,
+    "fields": {
+      "score": 105,
+      "string_agg": "[28, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 76,
+    "fields": {
+      "score": 119,
+      "string_agg": "[25, 46, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 45,
+    "fields": {
+      "score": 118,
+      "string_agg": "[37, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 77,
+    "fields": {
+      "score": 42,
+      "string_agg": "[2, 6, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 78,
+    "fields": {
+      "score": 30,
+      "string_agg": "[7, 8, 15]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 64,
+    "fields": {
+      "score": 67,
+      "string_agg": "[1, 31, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 69,
+    "fields": {
+      "score": 67,
+      "string_agg": "[12, 22, 33]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 65,
+    "fields": {
+      "score": 67,
+      "string_agg": "[20, 23, 24]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 68,
+    "fields": {
+      "score": 67,
+      "string_agg": "[5, 30, 32]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 72,
+    "fields": {
+      "score": 107,
+      "string_agg": "[16, 44, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 74,
+    "fields": {
+      "score": 106,
+      "string_agg": "[21, 42, 43]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 73,
+    "fields": {
+      "score": 107,
+      "string_agg": "[26, 36, 45]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 75,
+    "fields": {
+      "score": 105,
+      "string_agg": "[28, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 67,
+    "fields": {
+      "score": 49,
+      "string_agg": "[4, 18, 27]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 77,
+    "fields": {
+      "score": 42,
+      "string_agg": "[2, 6, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 70,
+    "fields": {
+      "score": 38,
+      "string_agg": "[9, 10, 19]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 78,
+    "fields": {
+      "score": 30,
+      "string_agg": "[7, 8, 15]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 71,
+    "fields": {
+      "score": 38,
+      "string_agg": "[11, 13, 14]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 45,
+    "fields": {
+      "score": 118,
+      "string_agg": "[37, 40, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 66,
+    "fields": {
+      "score": 49,
+      "string_agg": "[3, 17, 29]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 76,
+    "fields": {
+      "score": 119,
+      "string_agg": "[25, 46, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 79,
+    "fields": {
+      "score": 56,
+      "string_agg": "[7, 24, 25]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 80,
+    "fields": {
+      "score": 56,
+      "string_agg": "[12, 21, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 81,
+    "fields": {
+      "score": 57,
+      "string_agg": "[8, 18, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 82,
+    "fields": {
+      "score": 57,
+      "string_agg": "[13, 14, 30]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 83,
+    "fields": {
+      "score": 77,
+      "string_agg": "[9, 32, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 84,
+    "fields": {
+      "score": 77,
+      "string_agg": "[17, 26, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 85,
+    "fields": {
+      "score": 92,
+      "string_agg": "[15, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 86,
+    "fields": {
+      "score": 90,
+      "string_agg": "[20, 29, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 87,
+    "fields": {
+      "score": 96,
+      "string_agg": "[16, 37, 43]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 88,
+    "fields": {
+      "score": 95,
+      "string_agg": "[27, 33, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 89,
+    "fields": {
+      "score": 108,
+      "string_agg": "[19, 42, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 90,
+    "fields": {
+      "score": 108,
+      "string_agg": "[22, 40, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 91,
+    "fields": {
+      "score": 17,
+      "string_agg": "[1, 6, 10]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 92,
+    "fields": {
+      "score": 18,
+      "string_agg": "[2, 5, 11]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 93,
+    "fields": {
+      "score": 35,
+      "string_agg": "[3, 4, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 94,
+    "fields": {
+      "score": 137,
+      "string_agg": "[44, 45, 48]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 80,
+    "fields": {
+      "score": 56,
+      "string_agg": "[12, 21, 23]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 82,
+    "fields": {
+      "score": 57,
+      "string_agg": "[13, 14, 30]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 79,
+    "fields": {
+      "score": 56,
+      "string_agg": "[7, 24, 25]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 81,
+    "fields": {
+      "score": 57,
+      "string_agg": "[8, 18, 31]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 85,
+    "fields": {
+      "score": 92,
+      "string_agg": "[15, 38, 39]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 87,
+    "fields": {
+      "score": 96,
+      "string_agg": "[16, 37, 43]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 86,
+    "fields": {
+      "score": 90,
+      "string_agg": "[20, 29, 41]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 88,
+    "fields": {
+      "score": 95,
+      "string_agg": "[27, 33, 35]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 90,
+    "fields": {
+      "score": 108,
+      "string_agg": "[22, 40, 46]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 91,
+    "fields": {
+      "score": 17,
+      "string_agg": "[1, 6, 10]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 83,
+    "fields": {
+      "score": 77,
+      "string_agg": "[9, 32, 36]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 89,
+    "fields": {
+      "score": 108,
+      "string_agg": "[19, 42, 47]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 92,
+    "fields": {
+      "score": 18,
+      "string_agg": "[2, 5, 11]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 93,
+    "fields": {
+      "score": 35,
+      "string_agg": "[3, 4, 28]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 84,
+    "fields": {
+      "score": 77,
+      "string_agg": "[17, 26, 34]"
+    }
+  },
+  {
+    "model": "core.Team",
+    "pk": 94,
+    "fields": {
+      "score": 137,
+      "string_agg": "[44, 45, 48]"
+    }
+  }
+]

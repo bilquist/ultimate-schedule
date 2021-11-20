@@ -1,0 +1,2258 @@
+[
+  {
+    "model": "core.TeamPod",
+    "pk": 1,
+    "fields": {
+      "team": 1,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 2,
+    "fields": {
+      "team": 1,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 3,
+    "fields": {
+      "team": 1,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 4,
+    "fields": {
+      "team": 2,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 5,
+    "fields": {
+      "team": 2,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 6,
+    "fields": {
+      "team": 2,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 7,
+    "fields": {
+      "team": 3,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 8,
+    "fields": {
+      "team": 3,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 9,
+    "fields": {
+      "team": 3,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 10,
+    "fields": {
+      "team": 4,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 11,
+    "fields": {
+      "team": 4,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 12,
+    "fields": {
+      "team": 4,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 13,
+    "fields": {
+      "team": 5,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 14,
+    "fields": {
+      "team": 5,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 15,
+    "fields": {
+      "team": 5,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 16,
+    "fields": {
+      "team": 6,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 17,
+    "fields": {
+      "team": 6,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 18,
+    "fields": {
+      "team": 6,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 19,
+    "fields": {
+      "team": 7,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 20,
+    "fields": {
+      "team": 7,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 21,
+    "fields": {
+      "team": 7,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 22,
+    "fields": {
+      "team": 8,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 23,
+    "fields": {
+      "team": 8,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 24,
+    "fields": {
+      "team": 8,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 25,
+    "fields": {
+      "team": 9,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 26,
+    "fields": {
+      "team": 9,
+      "pod": 26
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 27,
+    "fields": {
+      "team": 9,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 28,
+    "fields": {
+      "team": 10,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 29,
+    "fields": {
+      "team": 10,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 30,
+    "fields": {
+      "team": 10,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 31,
+    "fields": {
+      "team": 11,
+      "pod": 31
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 32,
+    "fields": {
+      "team": 11,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 33,
+    "fields": {
+      "team": 11,
+      "pod": 33
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 34,
+    "fields": {
+      "team": 12,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 35,
+    "fields": {
+      "team": 12,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 36,
+    "fields": {
+      "team": 12,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 37,
+    "fields": {
+      "team": 13,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 38,
+    "fields": {
+      "team": 13,
+      "pod": 38
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 39,
+    "fields": {
+      "team": 13,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 40,
+    "fields": {
+      "team": 14,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 41,
+    "fields": {
+      "team": 14,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 42,
+    "fields": {
+      "team": 14,
+      "pod": 42
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 43,
+    "fields": {
+      "team": 15,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 44,
+    "fields": {
+      "team": 15,
+      "pod": 44
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 45,
+    "fields": {
+      "team": 15,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 46,
+    "fields": {
+      "team": 16,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 47,
+    "fields": {
+      "team": 16,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 48,
+    "fields": {
+      "team": 16,
+      "pod": 48
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 49,
+    "fields": {
+      "team": 17,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 50,
+    "fields": {
+      "team": 17,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 51,
+    "fields": {
+      "team": 17,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 52,
+    "fields": {
+      "team": 18,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 53,
+    "fields": {
+      "team": 18,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 54,
+    "fields": {
+      "team": 18,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 55,
+    "fields": {
+      "team": 19,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 56,
+    "fields": {
+      "team": 19,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 57,
+    "fields": {
+      "team": 19,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 58,
+    "fields": {
+      "team": 20,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 59,
+    "fields": {
+      "team": 20,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 60,
+    "fields": {
+      "team": 20,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 61,
+    "fields": {
+      "team": 21,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 62,
+    "fields": {
+      "team": 21,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 63,
+    "fields": {
+      "team": 21,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 64,
+    "fields": {
+      "team": 22,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 65,
+    "fields": {
+      "team": 22,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 66,
+    "fields": {
+      "team": 22,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 67,
+    "fields": {
+      "team": 23,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 68,
+    "fields": {
+      "team": 23,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 69,
+    "fields": {
+      "team": 23,
+      "pod": 42
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 70,
+    "fields": {
+      "team": 24,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 71,
+    "fields": {
+      "team": 24,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 72,
+    "fields": {
+      "team": 24,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 73,
+    "fields": {
+      "team": 25,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 74,
+    "fields": {
+      "team": 25,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 75,
+    "fields": {
+      "team": 25,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 76,
+    "fields": {
+      "team": 26,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 77,
+    "fields": {
+      "team": 26,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 78,
+    "fields": {
+      "team": 26,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 79,
+    "fields": {
+      "team": 27,
+      "pod": 26
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 80,
+    "fields": {
+      "team": 27,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 81,
+    "fields": {
+      "team": 27,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 82,
+    "fields": {
+      "team": 28,
+      "pod": 31
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 83,
+    "fields": {
+      "team": 28,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 84,
+    "fields": {
+      "team": 28,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 85,
+    "fields": {
+      "team": 29,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 86,
+    "fields": {
+      "team": 29,
+      "pod": 33
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 87,
+    "fields": {
+      "team": 29,
+      "pod": 48
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 88,
+    "fields": {
+      "team": 30,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 89,
+    "fields": {
+      "team": 30,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 90,
+    "fields": {
+      "team": 30,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 91,
+    "fields": {
+      "team": 31,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 92,
+    "fields": {
+      "team": 31,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 93,
+    "fields": {
+      "team": 31,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 94,
+    "fields": {
+      "team": 32,
+      "pod": 38
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 95,
+    "fields": {
+      "team": 32,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 96,
+    "fields": {
+      "team": 32,
+      "pod": 44
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 97,
+    "fields": {
+      "team": 33,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 98,
+    "fields": {
+      "team": 33,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 99,
+    "fields": {
+      "team": 33,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 100,
+    "fields": {
+      "team": 34,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 101,
+    "fields": {
+      "team": 34,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 102,
+    "fields": {
+      "team": 34,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 103,
+    "fields": {
+      "team": 35,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 104,
+    "fields": {
+      "team": 35,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 105,
+    "fields": {
+      "team": 35,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 106,
+    "fields": {
+      "team": 36,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 107,
+    "fields": {
+      "team": 36,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 108,
+    "fields": {
+      "team": 36,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 109,
+    "fields": {
+      "team": 37,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 110,
+    "fields": {
+      "team": 37,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 111,
+    "fields": {
+      "team": 37,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 112,
+    "fields": {
+      "team": 38,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 113,
+    "fields": {
+      "team": 38,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 114,
+    "fields": {
+      "team": 38,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 115,
+    "fields": {
+      "team": 39,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 116,
+    "fields": {
+      "team": 39,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 117,
+    "fields": {
+      "team": 39,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 118,
+    "fields": {
+      "team": 40,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 119,
+    "fields": {
+      "team": 40,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 120,
+    "fields": {
+      "team": 40,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 121,
+    "fields": {
+      "team": 41,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 122,
+    "fields": {
+      "team": 41,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 123,
+    "fields": {
+      "team": 41,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 124,
+    "fields": {
+      "team": 42,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 125,
+    "fields": {
+      "team": 42,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 126,
+    "fields": {
+      "team": 42,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 127,
+    "fields": {
+      "team": 43,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 128,
+    "fields": {
+      "team": 43,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 129,
+    "fields": {
+      "team": 43,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 130,
+    "fields": {
+      "team": 44,
+      "pod": 26
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 131,
+    "fields": {
+      "team": 44,
+      "pod": 31
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 132,
+    "fields": {
+      "team": 44,
+      "pod": 44
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 133,
+    "fields": {
+      "team": 45,
+      "pod": 38
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 134,
+    "fields": {
+      "team": 45,
+      "pod": 33
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 135,
+    "fields": {
+      "team": 45,
+      "pod": 42
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 136,
+    "fields": {
+      "team": 46,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 137,
+    "fields": {
+      "team": 46,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 138,
+    "fields": {
+      "team": 46,
+      "pod": 48
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 139,
+    "fields": {
+      "team": 47,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 140,
+    "fields": {
+      "team": 47,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 141,
+    "fields": {
+      "team": 47,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 142,
+    "fields": {
+      "team": 48,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 143,
+    "fields": {
+      "team": 48,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 144,
+    "fields": {
+      "team": 48,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 145,
+    "fields": {
+      "team": 49,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 146,
+    "fields": {
+      "team": 49,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 147,
+    "fields": {
+      "team": 49,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 148,
+    "fields": {
+      "team": 50,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 149,
+    "fields": {
+      "team": 50,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 150,
+    "fields": {
+      "team": 50,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 151,
+    "fields": {
+      "team": 51,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 152,
+    "fields": {
+      "team": 51,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 153,
+    "fields": {
+      "team": 51,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 154,
+    "fields": {
+      "team": 52,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 155,
+    "fields": {
+      "team": 52,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 156,
+    "fields": {
+      "team": 52,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 157,
+    "fields": {
+      "team": 53,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 158,
+    "fields": {
+      "team": 53,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 159,
+    "fields": {
+      "team": 53,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 160,
+    "fields": {
+      "team": 54,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 161,
+    "fields": {
+      "team": 54,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 162,
+    "fields": {
+      "team": 54,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 163,
+    "fields": {
+      "team": 55,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 164,
+    "fields": {
+      "team": 55,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 165,
+    "fields": {
+      "team": 55,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 166,
+    "fields": {
+      "team": 56,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 167,
+    "fields": {
+      "team": 56,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 168,
+    "fields": {
+      "team": 56,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 169,
+    "fields": {
+      "team": 57,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 170,
+    "fields": {
+      "team": 57,
+      "pod": 33
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 171,
+    "fields": {
+      "team": 57,
+      "pod": 42
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 172,
+    "fields": {
+      "team": 58,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 173,
+    "fields": {
+      "team": 58,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 174,
+    "fields": {
+      "team": 58,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 175,
+    "fields": {
+      "team": 59,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 176,
+    "fields": {
+      "team": 59,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 177,
+    "fields": {
+      "team": 59,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 178,
+    "fields": {
+      "team": 60,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 179,
+    "fields": {
+      "team": 60,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 180,
+    "fields": {
+      "team": 60,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 181,
+    "fields": {
+      "team": 61,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 182,
+    "fields": {
+      "team": 61,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 183,
+    "fields": {
+      "team": 61,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 184,
+    "fields": {
+      "team": 62,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 185,
+    "fields": {
+      "team": 62,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 186,
+    "fields": {
+      "team": 62,
+      "pod": 48
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 187,
+    "fields": {
+      "team": 63,
+      "pod": 38
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 188,
+    "fields": {
+      "team": 63,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 189,
+    "fields": {
+      "team": 63,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 190,
+    "fields": {
+      "team": 64,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 191,
+    "fields": {
+      "team": 64,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 192,
+    "fields": {
+      "team": 64,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 193,
+    "fields": {
+      "team": 65,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 194,
+    "fields": {
+      "team": 65,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 195,
+    "fields": {
+      "team": 65,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 196,
+    "fields": {
+      "team": 66,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 197,
+    "fields": {
+      "team": 66,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 198,
+    "fields": {
+      "team": 66,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 199,
+    "fields": {
+      "team": 67,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 200,
+    "fields": {
+      "team": 67,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 201,
+    "fields": {
+      "team": 67,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 202,
+    "fields": {
+      "team": 68,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 203,
+    "fields": {
+      "team": 68,
+      "pod": 31
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 204,
+    "fields": {
+      "team": 68,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 205,
+    "fields": {
+      "team": 69,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 206,
+    "fields": {
+      "team": 69,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 207,
+    "fields": {
+      "team": 69,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 208,
+    "fields": {
+      "team": 70,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 209,
+    "fields": {
+      "team": 70,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 210,
+    "fields": {
+      "team": 70,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 211,
+    "fields": {
+      "team": 71,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 212,
+    "fields": {
+      "team": 71,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 213,
+    "fields": {
+      "team": 71,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 214,
+    "fields": {
+      "team": 72,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 215,
+    "fields": {
+      "team": 72,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 216,
+    "fields": {
+      "team": 72,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 217,
+    "fields": {
+      "team": 73,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 218,
+    "fields": {
+      "team": 73,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 219,
+    "fields": {
+      "team": 73,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 220,
+    "fields": {
+      "team": 74,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 221,
+    "fields": {
+      "team": 74,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 222,
+    "fields": {
+      "team": 74,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 223,
+    "fields": {
+      "team": 75,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 224,
+    "fields": {
+      "team": 75,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 225,
+    "fields": {
+      "team": 75,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 226,
+    "fields": {
+      "team": 76,
+      "pod": 26
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 227,
+    "fields": {
+      "team": 76,
+      "pod": 44
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 228,
+    "fields": {
+      "team": 76,
+      "pod": 48
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 229,
+    "fields": {
+      "team": 77,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 230,
+    "fields": {
+      "team": 77,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 231,
+    "fields": {
+      "team": 77,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 232,
+    "fields": {
+      "team": 78,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 233,
+    "fields": {
+      "team": 78,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 234,
+    "fields": {
+      "team": 78,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 235,
+    "fields": {
+      "team": 79,
+      "pod": 8
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 236,
+    "fields": {
+      "team": 79,
+      "pod": 25
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 237,
+    "fields": {
+      "team": 79,
+      "pod": 26
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 238,
+    "fields": {
+      "team": 80,
+      "pod": 13
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 239,
+    "fields": {
+      "team": 80,
+      "pod": 15
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 240,
+    "fields": {
+      "team": 80,
+      "pod": 24
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 241,
+    "fields": {
+      "team": 81,
+      "pod": 10
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 242,
+    "fields": {
+      "team": 81,
+      "pod": 19
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 243,
+    "fields": {
+      "team": 81,
+      "pod": 32
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 244,
+    "fields": {
+      "team": 82,
+      "pod": 14
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 245,
+    "fields": {
+      "team": 82,
+      "pod": 16
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 246,
+    "fields": {
+      "team": 82,
+      "pod": 31
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 247,
+    "fields": {
+      "team": 83,
+      "pod": 3
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 248,
+    "fields": {
+      "team": 83,
+      "pod": 34
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 249,
+    "fields": {
+      "team": 83,
+      "pod": 37
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 250,
+    "fields": {
+      "team": 84,
+      "pod": 18
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 251,
+    "fields": {
+      "team": 84,
+      "pod": 28
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 252,
+    "fields": {
+      "team": 84,
+      "pod": 35
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 253,
+    "fields": {
+      "team": 85,
+      "pod": 17
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 254,
+    "fields": {
+      "team": 85,
+      "pod": 40
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 255,
+    "fields": {
+      "team": 85,
+      "pod": 41
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 256,
+    "fields": {
+      "team": 86,
+      "pod": 22
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 257,
+    "fields": {
+      "team": 86,
+      "pod": 30
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 258,
+    "fields": {
+      "team": 86,
+      "pod": 42
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 259,
+    "fields": {
+      "team": 87,
+      "pod": 9
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 260,
+    "fields": {
+      "team": 87,
+      "pod": 38
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 261,
+    "fields": {
+      "team": 87,
+      "pod": 46
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 262,
+    "fields": {
+      "team": 88,
+      "pod": 29
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 263,
+    "fields": {
+      "team": 88,
+      "pod": 27
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 264,
+    "fields": {
+      "team": 88,
+      "pod": 36
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 265,
+    "fields": {
+      "team": 89,
+      "pod": 20
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 266,
+    "fields": {
+      "team": 89,
+      "pod": 43
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 267,
+    "fields": {
+      "team": 89,
+      "pod": 45
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 268,
+    "fields": {
+      "team": 90,
+      "pod": 23
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 269,
+    "fields": {
+      "team": 90,
+      "pod": 33
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 270,
+    "fields": {
+      "team": 90,
+      "pod": 44
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 271,
+    "fields": {
+      "team": 91,
+      "pod": 1
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 272,
+    "fields": {
+      "team": 91,
+      "pod": 7
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 273,
+    "fields": {
+      "team": 91,
+      "pod": 11
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 274,
+    "fields": {
+      "team": 92,
+      "pod": 2
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 275,
+    "fields": {
+      "team": 92,
+      "pod": 6
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 276,
+    "fields": {
+      "team": 92,
+      "pod": 12
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 277,
+    "fields": {
+      "team": 93,
+      "pod": 4
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 278,
+    "fields": {
+      "team": 93,
+      "pod": 5
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 279,
+    "fields": {
+      "team": 93,
+      "pod": 21
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 280,
+    "fields": {
+      "team": 94,
+      "pod": 47
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 281,
+    "fields": {
+      "team": 94,
+      "pod": 39
+    }
+  },
+  {
+    "model": "core.TeamPod",
+    "pk": 282,
+    "fields": {
+      "team": 94,
+      "pod": 48
+    }
+  }
+]
